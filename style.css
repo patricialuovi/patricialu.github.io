@@ -1,0 +1,53 @@
+
+body{
+    background-color: beige;
+    color: rgb(64, 40, 40);
+    --bs-body-font-family: var(--bs-font-monospace);
+    --bs-body-line-height: 1.4;
+    --bs-body-bg: var(--bs-gray-100);
+}
+
+#header{
+    background-color: blanchedalmond;
+}
+
+h1{
+    text-align: center;
+    font-style: italic;
+}
+
+h3{
+    text-align: center;
+    background-color: blanchedalmond;
+}
+
+.navbar{
+    background-color: blanchedalmond;
+}
+
+.wrapper a{
+    text-decoration: none;
+    color: rgb(61, 41, 41);
+}
+
+p{
+    background-color: blanchedalmond;
+    text-align: center;
+}
+
+.toinen {
+    text-align: center;
+    padding: 10px;
+}
+
+.toinen2 {
+    padding: 10px;
+}
+
+.carousel-item img {
+    max-height: 300px;
+    max-width: 100%;
+    margin: auto;
+}
+
+
